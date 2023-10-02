@@ -15,28 +15,30 @@
         "startDate": "2023",
         "description": "WWYR  is a personalized movie recommendation web-based hub that allows users to receive movie suggestions from people they know and trust.",
         "images": [
+          "images/portfolio/201Final_LandingPage_Screenshot.jpg",
           "images/portfolio/201Final_HomePage_Screenshot1.jpg",
-          "images/portfolio/201Final_CommunityList_Screenshot.jpg"
+          "images/portfolio/201Final_CommunityList_Screenshot.jpg",
+          "images/portfolio/201Final_SharePage_Screenshot.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/WWYR-Community-Movie-Recommendations/WWYR",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Placeholder 301",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -55,8 +57,8 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Placeholder 401",
+        "startDate": "2024",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",

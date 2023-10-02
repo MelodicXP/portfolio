@@ -11,36 +11,38 @@
     },
     "projects": [
         {
-            "title": "Refugio de Animales",
-            "startDate": "2020",
-            "description": "La aplicación más compleja en la que tuve la oportunidad de trabajar. Aprendí muchas tecnologías y mi código fue revisado por un gran mentor. La aplicación maneja todos los procesos de adopción y permite almacenar toda la documentación relacionada con la adopción de animales del refugio.",
-            "images": [
-                "images/portfolio/animal-shelter/p1.jpg",
-                "images/portfolio/animal-shelter/p2.jpg"
-            ],
-            "url": "",
-            "technologies": [
-                {
-                    "class": "devicon-angularjs-plain",
-                    "name": "Angular"
-                },
-                {
-                    "class": "devicon-typescript-plain",
-                    "name": "TypeScript"
-                },
-                {
-                    "class": "devicon-csharp-plain",
-                    "name": "C#"
-                }
-            ]
-        },
-        {
             "title": "WWYR - What Would You Recommend",
             "startDate": "2023",
             "description": "WWYR es un centro web personalizado de recomendaciones de películas que permite a los usuarios recibir sugerencias de películas de personas que conocen y en quienes confían.",
             "images": [
+                "images/portfolio/201Final_LandingPage_Screenshot.jpg",
                 "images/portfolio/201Final_HomePage_Screenshot1.jpg",
-                "images/portfolio/201Final_CommunityList_Screenshot.jpg"
+                "images/portfolio/201Final_CommunityList_Screenshot.jpg",
+                "images/portfolio/201Final_SharePage_Screenshot.jpg"
+            ],
+            "url": "https://github.com/WWYR-Community-Movie-Recommendations/WWYR",
+            "technologies": [
+                {
+                  "class": "devicon-javascript-plain",
+                  "name": "JavaScript"
+                },
+                {
+                  "class": "devicon-css3-plain",
+                  "name": "CSS 3"
+                },
+                {
+                  "class": "devicon-html5-plain",
+                  "name": "HTML 5"
+                }
+              ]
+        },
+        {
+            "title": "Placeholder 301",
+            "startDate": "2023",
+            "description": "Placeholder 301 es un centro web personalizado de recomendaciones de películas que permite a los usuarios recibir sugerencias de películas de personas que conocen y en quienes confían.",
+            "images": [
+                "https://placehold.co/600x400",
+                "https://placehold.co/600x400"
             ],
             "url": "https://github.com",
             "technologies": [
@@ -55,12 +57,12 @@
             ]
         },
         {
-            "title": "Visor de Objetos 3D",
+            "title": "Placeholder 401",
             "startDate": "2015",
             "description": "Uno de los primeros proyectos en los que trabajé como pasante. Tuve que preparar el front-end para una aplicación que muestra modelos 3D de edificios famosos. También fue mi primer proyecto en el framework Angular. ¡Aprendí mucho!",
             "images": [
-                "images/portfolio/adventure/p1.jpg",
-                "images/portfolio/adventure/p2.jpg"
+                "https://placehold.co/600x400",
+                "https://placehold.co/600x400"
             ],
             "url": "https://github.com",
             "technologies": [

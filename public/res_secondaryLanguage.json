@@ -35,12 +35,12 @@
             ]
         },
         {
-            "title": "Fotografía",
-            "startDate": "2018",
-            "description": "Proyecto personal para un curso de estudios. Fui responsable de probar una aplicación que optimiza fotos utilizando algoritmos populares utilizados por editores de imágenes como Pixlr o Adobe Photoshop. ¡Obtuve una calificación de 5 para el proyecto :)",
+            "title": "WWYR - What Would You Recommend",
+            "startDate": "2023",
+            "description": "WWYR es un centro web personalizado de recomendaciones de películas que permite a los usuarios recibir sugerencias de películas de personas que conocen y en quienes confían.",
             "images": [
-                "images/portfolio/photography/p1.jpg",
-                "images/portfolio/photography/p2.jpg"
+                "images/portfolio/201Final_HomePage_Screenshot1.jpg",
+                "images/portfolio/201Final_CommunityList_Screenshot.jpg"
             ],
             "url": "https://github.com",
             "technologies": [

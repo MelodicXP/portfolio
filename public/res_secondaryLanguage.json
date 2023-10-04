@@ -94,38 +94,33 @@
         }
     ],
     "experience": [
-        {
-            "company": "DefOpenSource",
-            "title": "Desarrollador Front-End",
-            "years": "10.2019 - presente",
-            "mainTech": [
-                "Angular 8/9/10"
-            ],
-            "technologies": [
-                "API REST",
-                "RxJS",
-                "JavaScript",
-                "Bootstrap",
-                "MDBootstrap",
-                "EF Core",
-                "Angular Material"
-            ]
-        },
-        {
-            "company": "Serros Solutions",
-            "title": "Practicante",
-            "years": "01.2018 - 09.2019",
-            "mainTech": [
-                "Angular 7/8"
-            ],
-            "technologies": [
-                "API REST",
-                "RxJS",
-                "Swagger",
-                "JavaScript",
-                "DHTMLX Gantt"
-            ]
-        }
+      {
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "03.2023 - present",
+        "mainTech": [
+            "Javascript"
+        ],
+        "technologies": [
+            "JavaScript",
+            "Bootstrap"
+        ]
+      },
+      {
+        "company": "CLM Tax Service",
+        "title": "Managing Member",
+        "years": "01.2000 - present",
+        "mainTech": [
+            "Business Service"
+        ],
+        "technologies": [
+            "QuickBooks Enterprise",
+            "ATX",
+            "Microsoft Office",
+            "Microsoft Teams",
+            "Microsoft Sharepoint"
+        ]
+      }
     ]
 }
 

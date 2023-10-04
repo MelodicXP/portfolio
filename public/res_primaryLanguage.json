@@ -95,37 +95,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "03.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "CLM Tax Service",
+        "title": "Managing Member",
+        "years": "01.2000 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Business Service"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "QuickBooks Enterprise",
+          "ATX",
+          "Microsoft Office",
+          "Microsoft Teams",
+          "Microsoft Sharepoint"
         ]
       }
     ]
